@@ -8,3 +8,4 @@ Unit tests included in the test.go file and encryption with Bcrypt.
 
 Initial Demo
 
+https://raw.githubusercontent.com/RYANalpha-Omni/Instagram-API-clone/main/image/Demo.png
