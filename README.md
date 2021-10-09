@@ -8,4 +8,4 @@ Unit tests included in the test.go file and encryption with Bcrypt.
 
 Initial Demo
 
-<img src="https://raw.githubusercontent.com/RYANalpha-Omni/Instagram-API-clone/main/image/Demo.png" raw=true width=200px height=200px/>
+<img src="https://raw.githubusercontent.com/RYANalpha-Omni/Instagram-API-clone/main/image/Demo.png" raw=true width=2000px height=2000px/>
