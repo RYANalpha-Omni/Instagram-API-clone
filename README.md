@@ -1,2 +1,10 @@
 # Instagram-API-clone
-To perform create and post opeatoins in a simple server end mimicking the Instagram Post system,written in Go.
+This a simple REST API function employed to micmic the working of Instagram's API.
+
+To use install go,mongoDB "go get go.mongodb.org/mongo-driver"
+
+It uses simple get and post functions to create json post data and receive it without needing any other dependancies.
+Unit tests included in the test.go file and encryption with Bcrypt.
+
+Initial Demo
+
